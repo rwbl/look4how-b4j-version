@@ -10,7 +10,7 @@ The B4JHowTo database is not included (too large to attach) and can be requested
 ### Get Started
 Steps to install the Look4How Zip package for Windows (tested with Windows 10). 
  
-Unzip Look4How094.zip to a folder of choice, i.e. Look4How.
+Unzip Look4How.zip to a folder of choice, i.e. Look4How.
 Following files are extracted:
 * Look4How.jar – Core application.
 * Look4How.pdf – Help file.
