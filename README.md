@@ -18,8 +18,8 @@ Following files are extracted:
 
 Check if the Java Runtime Environment JRE is installed:
 * This is a requirement to run Look4How.
-* Recommended is Java 8. To check the installed Java version, run from the command line: java –version. Result like: java version "1.8.0_192".
-* Start Look4How from the command line with command (Java must be on the path) java –jar look4how.jar or double click on the Windows Explorer with Look4How.jar selected.
+* Recommended is ***Java 8***. Check installed Java version, run from the command line: ***java –version***. Result,i.e. _java version "1.8.0_192"_.
+* Start Look4How from the command line with command (Java must be on the path) ***java –jar look4how.jar*** or double click on the Windows Explorer with Look4How.jar selected.
 
 While starting, Look4How creates additional files and the export folder.
 The main screen appears, in full screen mode first time, with the status information, that no themes are defined for the default database “Look4How.l4h”. 
