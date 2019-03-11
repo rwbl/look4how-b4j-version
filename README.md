@@ -3,7 +3,7 @@
 ***Look4How*** is a Knowledge Management Application to store & retrieve, from a database, information for a topic which is organized by themes with items, being categories and related memos. The items are sorted alphabetically.
 
 The application is developed with [B4J](http://https://www.b4x.com/b4j.html).
-For those interested, the B4J source code is included for Look4How and the Look4How uploader = a lot to explore.
+For those interested, the B4J source code is included for Look4How (Look4How094.zip) and the Look4How uploader (Look4HowUploader102.zip) = a lot to explore (enjoy).
 
 The B4JHowTo database is not included (too large to attach) and can be requested via email.
 
