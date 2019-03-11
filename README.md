@@ -5,7 +5,7 @@
 The application is developed with [B4J](http://https://www.b4x.com/b4j.html).
 For those interested, the B4J source code is included for Look4How (Look4How094.zip) and the Look4How uploader (Look4HowUploader102.zip) = a lot to explore (enjoy).
 
-The B4JHowTo database is not included (too large to attach) and can be requested via email.
+The B4JHowTo database is part of the master. Load into Look4How via File > Open.
 
 ### Get Started
 Steps to install the Look4How Zip package for Windows (tested with Windows 10). 
