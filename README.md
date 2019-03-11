@@ -11,6 +11,8 @@ The B4JHowTo database is part of the master. Load into Look4How via File > Open.
 ***Note***
 Status Dec 2018: This application is not developed further as decided to create a new version based on [Lazarus](https://www.lazarus-ide.org/).
 
+![look4how2](https://user-images.githubusercontent.com/47274144/54112392-563eb500-43e6-11e9-91a1-049330c2c5cb.png)
+
 ### Get Started
 Steps to install the Look4How Zip package for Windows (tested with Windows 10). 
  
