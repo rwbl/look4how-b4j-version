@@ -10,16 +10,20 @@ The B4JHowTo database is part of the master. Load into Look4How via File > Open.
 ### Get Started
 Steps to install the Look4How Zip package for Windows (tested with Windows 10). 
  
-Unzip Look4How.zip to a folder of choice, i.e. Look4How.
+1. Unzip Look4How.zip to a folder of choice, i.e. Look4How.
 Following files are extracted:
 * Look4How.jar – Core application.
 * Look4How.pdf – Help file.
 * Look4HowUploader.jar – Tool to upload theme files.
 
-Check if the Java Runtime Environment JRE is installed:
-* This is a requirement to run Look4How.
-* Recommended is ***Java 8***. Check installed Java version, run from the command line: ***java –version***. Result,i.e. _java version "1.8.0_192"_.
-* Start Look4How from the command line with command (Java must be on the path) ***java –jar look4how.jar*** or double click on the Windows Explorer with Look4How.jar selected.
+2. Check Java Runtime Environment
+To run Look4How, the Java JRE must be installed. Recommended is ***Java 8***.
+Check installed Java version, run from the command line: ***java –version***. Result,i.e. _java version "1.8.0_192"_.
+
+3. Start Look4How
+From the command line run command (Java must be on the path): ***java –jar look4how.jar*** 
+or
+double click on the Windows Explorer with ***Look4How.jar*** selected.
 
 While starting, Look4How creates additional files and the export folder.
 The main screen appears, in full screen mode first time, with the status information, that no themes are defined for the default database “Look4How.l4h”. 
