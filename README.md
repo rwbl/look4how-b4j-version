@@ -5,8 +5,10 @@ Look4How has been developed for personal use but open to share the source code.
 
 The application is developed with [B4J](http://https://www.b4x.com/b4j.html).
 For those interested, the B4J source code is included for Look4How (Look4How094.zip) and the Look4How uploader (Look4HowUploader102.zip) = a lot to explore (enjoy).
-
 The B4JHowTo database is part of the master. Load into Look4How via File > Open.
+
+## Java License
+The application has been created for **personal use**  only. If planned for commercial use, ensure to comply to the [Oracle JDK License Agreement](https://www.oracle.com/technetwork/java/javase/terms/license/javase-license.html). 
 
 ***Note***
 Status Dec 2018: This application is not developed further as decided to create a new version based on [Lazarus](https://www.lazarus-ide.org/).
